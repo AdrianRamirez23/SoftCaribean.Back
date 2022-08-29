@@ -1,0 +1,12 @@
+C:\Users\JobsCenter\source\repos\SoftCaribean.Test\Entity.Test\bin\Debug\net5.0\Entity.Test.deps.json
+C:\Users\JobsCenter\source\repos\SoftCaribean.Test\Entity.Test\bin\Debug\net5.0\Entity.Test.dll
+C:\Users\JobsCenter\source\repos\SoftCaribean.Test\Entity.Test\bin\Debug\net5.0\ref\Entity.Test.dll
+C:\Users\JobsCenter\source\repos\SoftCaribean.Test\Entity.Test\bin\Debug\net5.0\Entity.Test.pdb
+C:\Users\JobsCenter\source\repos\SoftCaribean.Test\Entity.Test\obj\Debug\net5.0\Entity.Test.csproj.AssemblyReference.cache
+C:\Users\JobsCenter\source\repos\SoftCaribean.Test\Entity.Test\obj\Debug\net5.0\Entity.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JobsCenter\source\repos\SoftCaribean.Test\Entity.Test\obj\Debug\net5.0\Entity.Test.AssemblyInfoInputs.cache
+C:\Users\JobsCenter\source\repos\SoftCaribean.Test\Entity.Test\obj\Debug\net5.0\Entity.Test.AssemblyInfo.cs
+C:\Users\JobsCenter\source\repos\SoftCaribean.Test\Entity.Test\obj\Debug\net5.0\Entity.Test.csproj.CoreCompileInputs.cache
+C:\Users\JobsCenter\source\repos\SoftCaribean.Test\Entity.Test\obj\Debug\net5.0\Entity.Test.dll
+C:\Users\JobsCenter\source\repos\SoftCaribean.Test\Entity.Test\obj\Debug\net5.0\ref\Entity.Test.dll
+C:\Users\JobsCenter\source\repos\SoftCaribean.Test\Entity.Test\obj\Debug\net5.0\Entity.Test.pdb

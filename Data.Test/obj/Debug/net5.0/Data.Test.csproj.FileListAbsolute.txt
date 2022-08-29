@@ -1,0 +1,15 @@
+C:\Users\JobsCenter\source\repos\SoftCaribean.Test\Data.Test\bin\Debug\net5.0\Data.Test.deps.json
+C:\Users\JobsCenter\source\repos\SoftCaribean.Test\Data.Test\bin\Debug\net5.0\Data.Test.runtimeconfig.json
+C:\Users\JobsCenter\source\repos\SoftCaribean.Test\Data.Test\bin\Debug\net5.0\Data.Test.runtimeconfig.dev.json
+C:\Users\JobsCenter\source\repos\SoftCaribean.Test\Data.Test\bin\Debug\net5.0\Data.Test.dll
+C:\Users\JobsCenter\source\repos\SoftCaribean.Test\Data.Test\bin\Debug\net5.0\ref\Data.Test.dll
+C:\Users\JobsCenter\source\repos\SoftCaribean.Test\Data.Test\bin\Debug\net5.0\Data.Test.pdb
+C:\Users\JobsCenter\source\repos\SoftCaribean.Test\Data.Test\obj\Debug\net5.0\Data.Test.csproj.AssemblyReference.cache
+C:\Users\JobsCenter\source\repos\SoftCaribean.Test\Data.Test\obj\Debug\net5.0\Data.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JobsCenter\source\repos\SoftCaribean.Test\Data.Test\obj\Debug\net5.0\Data.Test.AssemblyInfoInputs.cache
+C:\Users\JobsCenter\source\repos\SoftCaribean.Test\Data.Test\obj\Debug\net5.0\Data.Test.AssemblyInfo.cs
+C:\Users\JobsCenter\source\repos\SoftCaribean.Test\Data.Test\obj\Debug\net5.0\Data.Test.csproj.CoreCompileInputs.cache
+C:\Users\JobsCenter\source\repos\SoftCaribean.Test\Data.Test\obj\Debug\net5.0\Data.Test.dll
+C:\Users\JobsCenter\source\repos\SoftCaribean.Test\Data.Test\obj\Debug\net5.0\ref\Data.Test.dll
+C:\Users\JobsCenter\source\repos\SoftCaribean.Test\Data.Test\obj\Debug\net5.0\Data.Test.pdb
+C:\Users\JobsCenter\source\repos\SoftCaribean.Test\Data.Test\obj\Debug\net5.0\Data.Test.genruntimeconfig.cache
