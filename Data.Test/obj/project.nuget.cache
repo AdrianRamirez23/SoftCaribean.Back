@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C4hcIHBt5zLSiH552Tlcb4ZXZuDC1Y0Npegx6NqNakgmFxwYOt9ZdNsizNe1dRqxjRBPIVYMnNM2oea5qLGZ7g==",
+  "dgSpecHash": "KaSU5lHRARddGZsUjW9Z+6fBrb23Cyg4Ueb0ixkju/AaUTx3M14RgiKmGHplUrzP6/YfiUdueS4Iynktk47cmA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JobsCenter\\source\\repos\\SoftCaribean.Test\\Data.Test\\Data.Test.csproj",
+  "projectFilePath": "C:\\Users\\JobsCenter\\Documents\\Desarrollos propios\\git_pruebas\\softcaribean.back\\SoftCaribean.Back\\Data.Test\\Data.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JobsCenter\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\JobsCenter\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

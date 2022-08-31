@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8UCq/1wnaNeIpce/qAX00qMOEUIApJ34iGzJmVXH3iFDLsw1Bw1NJE4b4bULnOTTHHyT4rV6DMNE4fBiU/D5qA==",
+  "dgSpecHash": "Yobg9PWzUOJq/vW54mYfpntneDn/1JBTXpucwle4VC9mo9bQt23j8q8a88W+vD4jkVLprwEGZbGMSWGYwea1BQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JobsCenter\\source\\repos\\SoftCaribean.Test\\Bussines.Test\\Bussines.Test.csproj",
+  "projectFilePath": "C:\\Users\\JobsCenter\\Documents\\Desarrollos propios\\git_pruebas\\softcaribean.back\\SoftCaribean.Back\\Bussines.Test\\Bussines.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JobsCenter\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\JobsCenter\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

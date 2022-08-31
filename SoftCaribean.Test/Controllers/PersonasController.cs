@@ -53,6 +53,9 @@ namespace SoftCaribean.Test.Controllers
         [Route("UpdatePersonas")]
         public IActionResult UpdatePersonas(Persona persona)
         {
+            persona.Febaja = DateTime.Now;
+            persona.Feregistro = DateTime.Now;
+            persona.Cdusuario = "automatico";
             var result = _persona.UpdatePersonas(persona);
 
             return Ok(new

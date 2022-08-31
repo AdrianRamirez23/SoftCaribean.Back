@@ -6124,11 +6124,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JobsCenter\\source\\repos\\SoftCaribean.Test\\Data.Test\\Data.Test.csproj",
+      "projectUniqueName": "C:\\Users\\JobsCenter\\Documents\\Desarrollos propios\\git_pruebas\\softcaribean.back\\SoftCaribean.Back\\Data.Test\\Data.Test.csproj",
       "projectName": "Data.Test",
-      "projectPath": "C:\\Users\\JobsCenter\\source\\repos\\SoftCaribean.Test\\Data.Test\\Data.Test.csproj",
+      "projectPath": "C:\\Users\\JobsCenter\\Documents\\Desarrollos propios\\git_pruebas\\softcaribean.back\\SoftCaribean.Back\\Data.Test\\Data.Test.csproj",
       "packagesPath": "C:\\Users\\JobsCenter\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JobsCenter\\source\\repos\\SoftCaribean.Test\\Data.Test\\obj\\",
+      "outputPath": "C:\\Users\\JobsCenter\\Documents\\Desarrollos propios\\git_pruebas\\softcaribean.back\\SoftCaribean.Back\\Data.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JobsCenter\\AppData\\Roaming\\NuGet\\NuGet.Config",

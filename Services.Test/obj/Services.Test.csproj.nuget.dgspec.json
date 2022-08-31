@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JobsCenter\\source\\repos\\SoftCaribean.Test\\Services.Test\\Services.Test.csproj": {}
+    "C:\\Users\\JobsCenter\\Documents\\Desarrollos propios\\git_pruebas\\softcaribean.back\\SoftCaribean.Back\\Services.Test\\Services.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JobsCenter\\source\\repos\\SoftCaribean.Test\\Data.Test\\Data.Test.csproj": {
+    "C:\\Users\\JobsCenter\\Documents\\Desarrollos propios\\git_pruebas\\softcaribean.back\\SoftCaribean.Back\\Data.Test\\Data.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JobsCenter\\source\\repos\\SoftCaribean.Test\\Data.Test\\Data.Test.csproj",
+        "projectUniqueName": "C:\\Users\\JobsCenter\\Documents\\Desarrollos propios\\git_pruebas\\softcaribean.back\\SoftCaribean.Back\\Data.Test\\Data.Test.csproj",
         "projectName": "Data.Test",
-        "projectPath": "C:\\Users\\JobsCenter\\source\\repos\\SoftCaribean.Test\\Data.Test\\Data.Test.csproj",
+        "projectPath": "C:\\Users\\JobsCenter\\Documents\\Desarrollos propios\\git_pruebas\\softcaribean.back\\SoftCaribean.Back\\Data.Test\\Data.Test.csproj",
         "packagesPath": "C:\\Users\\JobsCenter\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JobsCenter\\source\\repos\\SoftCaribean.Test\\Data.Test\\obj\\",
+        "outputPath": "C:\\Users\\JobsCenter\\Documents\\Desarrollos propios\\git_pruebas\\softcaribean.back\\SoftCaribean.Back\\Data.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JobsCenter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,14 +88,14 @@
         }
       }
     },
-    "C:\\Users\\JobsCenter\\source\\repos\\SoftCaribean.Test\\Services.Test\\Services.Test.csproj": {
+    "C:\\Users\\JobsCenter\\Documents\\Desarrollos propios\\git_pruebas\\softcaribean.back\\SoftCaribean.Back\\Services.Test\\Services.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JobsCenter\\source\\repos\\SoftCaribean.Test\\Services.Test\\Services.Test.csproj",
+        "projectUniqueName": "C:\\Users\\JobsCenter\\Documents\\Desarrollos propios\\git_pruebas\\softcaribean.back\\SoftCaribean.Back\\Services.Test\\Services.Test.csproj",
         "projectName": "Services.Test",
-        "projectPath": "C:\\Users\\JobsCenter\\source\\repos\\SoftCaribean.Test\\Services.Test\\Services.Test.csproj",
+        "projectPath": "C:\\Users\\JobsCenter\\Documents\\Desarrollos propios\\git_pruebas\\softcaribean.back\\SoftCaribean.Back\\Services.Test\\Services.Test.csproj",
         "packagesPath": "C:\\Users\\JobsCenter\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JobsCenter\\source\\repos\\SoftCaribean.Test\\Services.Test\\obj\\",
+        "outputPath": "C:\\Users\\JobsCenter\\Documents\\Desarrollos propios\\git_pruebas\\softcaribean.back\\SoftCaribean.Back\\Services.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JobsCenter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -112,8 +112,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\JobsCenter\\source\\repos\\SoftCaribean.Test\\Data.Test\\Data.Test.csproj": {
-                "projectPath": "C:\\Users\\JobsCenter\\source\\repos\\SoftCaribean.Test\\Data.Test\\Data.Test.csproj"
+              "C:\\Users\\JobsCenter\\Documents\\Desarrollos propios\\git_pruebas\\softcaribean.back\\SoftCaribean.Back\\Data.Test\\Data.Test.csproj": {
+                "projectPath": "C:\\Users\\JobsCenter\\Documents\\Desarrollos propios\\git_pruebas\\softcaribean.back\\SoftCaribean.Back\\Data.Test\\Data.Test.csproj"
               }
             }
           }

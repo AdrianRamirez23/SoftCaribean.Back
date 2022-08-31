@@ -6364,11 +6364,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JobsCenter\\source\\repos\\SoftCaribean.Test\\SoftCaribean.Test\\SoftCaribean.Test.csproj",
+      "projectUniqueName": "C:\\Users\\JobsCenter\\Documents\\Desarrollos propios\\git_pruebas\\softcaribean.back\\SoftCaribean.Back\\SoftCaribean.Test\\SoftCaribean.Test.csproj",
       "projectName": "SoftCaribean.Test",
-      "projectPath": "C:\\Users\\JobsCenter\\source\\repos\\SoftCaribean.Test\\SoftCaribean.Test\\SoftCaribean.Test.csproj",
+      "projectPath": "C:\\Users\\JobsCenter\\Documents\\Desarrollos propios\\git_pruebas\\softcaribean.back\\SoftCaribean.Back\\SoftCaribean.Test\\SoftCaribean.Test.csproj",
       "packagesPath": "C:\\Users\\JobsCenter\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JobsCenter\\source\\repos\\SoftCaribean.Test\\SoftCaribean.Test\\obj\\",
+      "outputPath": "C:\\Users\\JobsCenter\\Documents\\Desarrollos propios\\git_pruebas\\softcaribean.back\\SoftCaribean.Back\\SoftCaribean.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JobsCenter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6385,11 +6385,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\JobsCenter\\source\\repos\\SoftCaribean.Test\\Bussines.Test\\Bussines.Test.csproj": {
-              "projectPath": "C:\\Users\\JobsCenter\\source\\repos\\SoftCaribean.Test\\Bussines.Test\\Bussines.Test.csproj"
+            "C:\\Users\\JobsCenter\\Documents\\Desarrollos propios\\git_pruebas\\softcaribean.back\\SoftCaribean.Back\\Bussines.Test\\Bussines.Test.csproj": {
+              "projectPath": "C:\\Users\\JobsCenter\\Documents\\Desarrollos propios\\git_pruebas\\softcaribean.back\\SoftCaribean.Back\\Bussines.Test\\Bussines.Test.csproj"
             },
-            "C:\\Users\\JobsCenter\\source\\repos\\SoftCaribean.Test\\Data.Test\\Data.Test.csproj": {
-              "projectPath": "C:\\Users\\JobsCenter\\source\\repos\\SoftCaribean.Test\\Data.Test\\Data.Test.csproj"
+            "C:\\Users\\JobsCenter\\Documents\\Desarrollos propios\\git_pruebas\\softcaribean.back\\SoftCaribean.Back\\Data.Test\\Data.Test.csproj": {
+              "projectPath": "C:\\Users\\JobsCenter\\Documents\\Desarrollos propios\\git_pruebas\\softcaribean.back\\SoftCaribean.Back\\Data.Test\\Data.Test.csproj"
             }
           }
         }
